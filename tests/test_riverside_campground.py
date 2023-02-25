@@ -1,4 +1,3 @@
-from turtle import home
 import pytest
 import random
 
